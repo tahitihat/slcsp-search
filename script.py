@@ -1,3 +1,7 @@
+"""
+This script parses the `plans`, `zips`, and `slcsp` files to find the 
+SLCSP rate for each requested zipcode.
+"""
 import csv
 import pandas as pd
 
